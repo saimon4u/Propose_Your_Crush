@@ -21,5 +21,5 @@ yes.addEventListener('click', ()=>{
     image.src = 'propose.gif';
     const button = document.getElementsByClassName('button-container')[0];
     button.classList.add('v-class');
-    nav.innerHTML = 'Hey I love you🥰'
+    nav.innerHTML = 'You choose the perfect person.I love you🥰'
 });
