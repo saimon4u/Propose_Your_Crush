@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+.nav{
+    width: 100vw;
+    height: 8vh;
+    font-size: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.content{
+    margin-right: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30vh;
+    flex-direction: column;
+}
+.button-container{
+    margin: 15px 5px;
+}
+.no{
+    height: 40px;
+    width: 70px;
+    border-radius: 15px;
+    background: red;
+    color: white;
+    border: 2px solid black;
+    margin: 5px 5px;
+}
+.yes{
+    height: 40px;
+    width: 70px;
+    border-radius: 15px;
+    background: green;
+    color: white;
+    border: 2px solid black;
+    margin: 5px 5px;
+}
+.v-class{
+    display: none;
+}
